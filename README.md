@@ -1,0 +1,2 @@
+# BarkodTanima
+ Python
